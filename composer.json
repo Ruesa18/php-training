@@ -1,0 +1,15 @@
+{
+    "name": "php/training",
+    "description": "A training environment for PHP",
+    "autoload": {
+        "psr-4": {
+            "PHP-Training\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandro Rüfenacht",
+            "email": "sandro.ruefenacht0@gmail.com"
+        }
+    ],
+}
