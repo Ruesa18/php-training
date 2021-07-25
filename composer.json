@@ -12,4 +12,7 @@
             "email": "sandro.ruefenacht0@gmail.com"
         }
     ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
 }

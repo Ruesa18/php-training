@@ -1,0 +1,12 @@
+<phpunit
+    processIsolation="false"
+    colors="true">
+    <testsuites>
+        <testsuite name="Init">
+            <file>src/core/init.php</file>
+        </testsuite>
+        <testsuite name="Exercises">
+            <directory>src/core/solutions/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
