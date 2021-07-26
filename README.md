@@ -13,7 +13,7 @@ After that you're ready for training. You can find all exercises under `/php-tra
 ## Folder Structure
 ### Where to find the exercises
 You'll find all exercises under `/php-training/src/exercies/`.
-To test your solutions see chapter [Testing your solutions](##Testing-your-solutions)
+To test your solutions see chapter [Testing your solutions](#Testing-your-solutions)
 
 ### Where to find base classes
 Some exercise-classes extend base-classes.
